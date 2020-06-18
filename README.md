@@ -4,5 +4,5 @@ University group project for Sistemas de Representação de Conhecimento e Racio
 Made by
 
 - André Vieira (https://github.com/TheITMonkey)
-- Eduardo Rocha 
-- Ricardo Neves
+- Eduardo Rocha (https://github.com/egrocha)
+- Ricardo Neves (https://github.com/ricardoaneves)
